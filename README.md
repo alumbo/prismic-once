@@ -1,6 +1,9 @@
 # prismic-once
 Utils class with static methods to use Prismic API with cache.
 
+## Dependencies
+[prismic-javascript](https://github.com/prismicio/prismic-javascript)
+
 React.js example:
 ```
 import React, { useState } from 'react';
