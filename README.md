@@ -20,7 +20,7 @@ function Hello() {
     return 'waiting for Prismic content...';
   }
   return (
-    <h1>prismicGlobal.hello</h1>
+    <h1>{prismicGlobal.hello}</h1>
   );
 }
 
